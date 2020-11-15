@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CNBC News</string>
+    <string name="download">Download</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="publish_date">Publish date:</string>
+    <string name="link">Link:</string>
+    <string name="Download">Скачивание</string>
+    <string name="link1">Ссылка</string>
+    <string name="dscr1">Описание</string>
+    <string name="pbdt">Дата публикации</string>
+    <string name="ttl">Заголовок</string>
+</resources>
